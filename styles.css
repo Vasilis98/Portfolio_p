@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 960px;
     margin: 0 auto;
     padding: 20px;
     text-align: center;
@@ -131,7 +131,7 @@ main .content {
     text-decoration: none;
 }
 
-/* Prevent the link xolor from changing when clicked */
+/* Prevent the link color from changing when clicked */
 .top-right-nav ul li a:active {
     color:white;
 }
@@ -168,6 +168,15 @@ main .content {
     scroll-behavior: smooth;
  }
 
+ p {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 10px;
+ }
 
+ 
+
+ 
+ 
    
 
